@@ -50,7 +50,7 @@ const ProjectCard = (
                 </div>
 
                 <div>
-                  <p className="text-[#006642] font-ubuntu font-bold text-[15px]">
+                  <p className="text-[#00984a] font-ubuntu font-bold text-[15px]">
                     {noticeHead}
                   </p>
                   <p className="text-gray-900">{noticeDetail}</p>
@@ -60,7 +60,7 @@ const ProjectCard = (
           </Popover>
 
           <div className="mt-0 p-5">
-            <p className="text-[#006642] font-ubuntu text-[15px]">
+            <p className="text-[#00984a] font-ubuntu text-[15px]">
               {noticeHead}
             </p>
           </div>
